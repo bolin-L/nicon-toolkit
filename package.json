@@ -1,0 +1,27 @@
+{
+  "name": "nicon-toolkit",
+  "version": "1.0.0",
+  "description": "an util that get iconfont source from nicon",
+  "repository": "git@github.com:bolin-L/nicon-toolkit.git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "bin": {
+    "nicon-toolkit": "./bin/nicon-tool.js"
+  },
+  "keywords": [
+    "icon",
+    "nicon-toolkit",
+    "icon tool"
+  ],
+  "author": "liaobolin",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "commander": "^2.13.0",
+    "mkdirp": "^0.5.1",
+    "rimraf": "^2.6.2"
+  }
+}

@@ -1,0 +1,15 @@
+#npm
+npm-debug.log
+node_modules
+
+# npm+bower 缓存
+.cache/
+
+# Mac files
+.DS_Store
+
+# IntelliJ files
+*.iml
+.idea/
+*.ipr
+*.iws
