@@ -1,24 +1,24 @@
 <div align="center">
-  <a href="icon.edu.netease.com" target="_blank">
+  <a href="http://icon.bolin.site" target="_blank">
     <img width="200" heigth="200" src="http://edu-image.nosdn.127.net/c76721ab-86ac-4c59-88c4-5a2468c578a5.png">
   </a>
   <br>
   <p align="left">
-    neicon-tool is a util that fetches iconfont resource from neicon platform. Its main purpose is to reduce complication for usage when fetching iconfont resource from neicon platform
+    nicon-toolkit is a util that fetches iconfont resource from nicon platform. Its main purpose is to reduce complication for usage when fetching iconfont resource from nicon platform
   <p>
 </div>
 
 ## Install
 
 ```bash
-npm install -g neicon-tool
+npm install -g nicon-toolkit
 ```
 
 ## Getting Start
 
 ### Using a Configuration
 
-Most projects will need a more complex setup, so neicon-tool supports a [configuration file](https://github.com/berlin-L/neicon-tool/blob/master/icon.config.example.js). This is more convenient and efficient that having to type in a lot of commands in the terminal.
+Most projects will need a more complex setup, so nicon-toolkit supports a [configuration file](https://github.com/berlin-L/nicon-toolkit/blob/master/icon.config.example.js). This is more convenient and efficient that having to type in a lot of commands in the terminal.
 
 **your project**
 
@@ -52,7 +52,7 @@ module.exports = [{
 ### Run command in terminal under your-project root path
 
 ```text
-neicon-tool
+nicon-toolkit
 ```
 
 ### Finish
