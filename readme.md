@@ -78,7 +78,7 @@ get  below
 default
 
 ```
-http://icon.edu.netease.com/api/repo/{repoId}/resource
+http://icon.bolin.site/api/repo/{repoId}/resource
 ```
 
 ### tag
