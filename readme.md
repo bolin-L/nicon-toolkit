@@ -56,7 +56,8 @@ nicon-toolkit
 ```
 
 ### Finish
-gst
+
+get  below
 
 ```html
 <link  name="cssUrl" href="//nos.netease.com/icon/dd7a8e7d8f00054c45e50c4e6c3778e8.css">
